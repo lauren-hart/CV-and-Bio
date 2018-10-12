@@ -7,3 +7,5 @@ All of the pinned repositories on my Github overview are examples of group proje
 If you like what you see, please check out my CV (feel free to download a copy).
 
 Or you can have a look at my LinkedIn profile - https://www.linkedin.com/in/lauren-hart-01551620/
+
+Please also read more about my journey into tech - https://skills.org.nz/about/latest-news/general/reigniting-passion-in-the-work-place-with-tech/
