@@ -11,4 +11,4 @@ Please take a look at an [interactive version of my CV](https://lauren-hart.hero
 
 Or you can have a look at my [LinkedIn profile](https://www.linkedin.com/in/lauren-hart-01551620/).
 
-You can read about my [journey into tech](https://skills.org.nz/about/latest-news/general/reigniting-passion-in-the-work-place-with-tech/).
+Please read about my [journey into tech](https://skills.org.nz/about/latest-news/general/reigniting-passion-in-the-work-place-with-tech/) (an article written by skills.org).
