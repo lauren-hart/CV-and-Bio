@@ -7,6 +7,8 @@ All of the pinned repositories on my Github overview are examples of group proje
 
 If you like what you see, please [download a copy of my CV](https://github.com/lauren-hart/CV-and-Bio/blob/master/Resume.pdf). If you would like to view my EDA graduation certificate you can find it [here](https://github.com/lauren-hart/CV-and-Bio/blob/master/Graduation_cert.pdf)
 
+Please take a look at an [interactive version of my CV](https://lauren-hart.herokuapp.com/)
+
 Or you can have a look at my [LinkedIn profile](https://www.linkedin.com/in/lauren-hart-01551620/)
 
 Please also read more about my [journey into tech](https://skills.org.nz/about/latest-news/general/reigniting-passion-in-the-work-place-with-tech/)
